@@ -1,0 +1,16 @@
+#table { color:white;
+}
+
+.star {position:absolute;   
+    width:10px;
+    height: 10px;
+    line-height:3em;
+    background:blue;
+    border:1px solid #003366;
+    white-space:nowrap;
+    border-radius: 100%;
+    color:white;
+    text-align: center;    
+    }
+
+    body{background: black;overflow:hidden;}
