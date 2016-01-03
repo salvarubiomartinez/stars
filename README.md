@@ -1,0 +1,2 @@
+# stars
+Javascript multiuser game
